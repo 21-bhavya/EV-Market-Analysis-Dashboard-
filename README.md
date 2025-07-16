@@ -79,14 +79,6 @@ To assist **AtliQ Motors**, a leading US-based EV manufacturer, in understanding
 - KPI design & DAX calculations
 - Time-series & market trend analysis
 - Executive-ready presentation of insights
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
-[GitHub Portfolio](https://github.com/yourusername)
-
 ---
 
 > 💡 *This project is part of the Codebasics Resume Project Challenge. Inspired by real-world business cases using public datasets from [Vahan Sewa](https://vahan.parivahan.gov.in/).*  
